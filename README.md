@@ -40,7 +40,7 @@ Setelah kita inisiasi nilai maka akan ada eror baru di <code>main.dart</code> di
 
 Perbedaannya yang satu memanggil class <code>RedTextWidget</code> dimana fungsinya telah kita atur sendiri sebelumnya sedangkan satunya memanggil class <code>Text</code> dari bawaan flutter sehingga menampilkan hasil yang berbeda
 
-### Tugas Parameter
+## Tugas Parameter
 
 
 | Parameter | Deskripsi |
