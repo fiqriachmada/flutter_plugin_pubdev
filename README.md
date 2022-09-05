@@ -26,7 +26,16 @@ Terjadi eror karena kita belum menginisiasi tipe data yang akan kita gunakan pad
 
 ## Screenshot Langkah 5
 
-![Screenshot 4](images/langkah_5.png.png)
+![Screenshot 4](images/langkah_5.png)
+
 ### Penjelasan:
 
 Setelah kita inisiasi nilai maka akan ada eror baru di <code>main.dart</code> dikarenakan kita belum mengisi atau memberikan nilai String <code>text</code>
+
+## Screenshot Langkah 6
+
+![Screenshot 5](images/langkah_6.png)
+
+### Penjelasan:
+
+Perbedaannya yang satu memanggil class <code>RedTextWidget</code> dimana fungsinya telah kita atur sendiri sebelumnya sedangkan satunya memanggil class <code>Text</code> dari bawaan flutter sehingga menampilkan hasil yang berbeda
