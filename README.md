@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshot 1
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot 1](images/langkah_2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Penjelasan: Ketika kita menjalankan perintah <code>flutter pub add auto_size_text</code> kita akan menambahkan plugin auto_size_text dan secara otomatis melakukan pub get untuk mengimplementasikan plugin ke projek kitbag
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
